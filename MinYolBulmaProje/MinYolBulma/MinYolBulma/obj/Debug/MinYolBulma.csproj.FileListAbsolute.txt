@@ -1,0 +1,7 @@
+C:\Users\ozano\source\repos\MinYolBulma\MinYolBulma\bin\Debug\MinYolBulma.exe.config
+C:\Users\ozano\source\repos\MinYolBulma\MinYolBulma\bin\Debug\MinYolBulma.exe
+C:\Users\ozano\source\repos\MinYolBulma\MinYolBulma\bin\Debug\MinYolBulma.pdb
+C:\Users\ozano\source\repos\MinYolBulma\MinYolBulma\obj\Debug\MinYolBulma.csprojAssemblyReference.cache
+C:\Users\ozano\source\repos\MinYolBulma\MinYolBulma\obj\Debug\MinYolBulma.csproj.CoreCompileInputs.cache
+C:\Users\ozano\source\repos\MinYolBulma\MinYolBulma\obj\Debug\MinYolBulma.exe
+C:\Users\ozano\source\repos\MinYolBulma\MinYolBulma\obj\Debug\MinYolBulma.pdb
